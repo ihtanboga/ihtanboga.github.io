@@ -24,7 +24,7 @@ organizations:
     url: https://www.hisarhospital.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include interventional cardiology, biostatistics, and artificial intelligence applications in healthcare.
+bio: My research interests include interventional cardiology, biostatistics, artificial intelligence, AI/LLM, AI Agents, deep learning, and machine learning applications in healthcare.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,7 +52,15 @@ website: ""
 ---
 
 Ibrahim Halil Tanboga, MD, PhD, is a Professor of Cardiology and Assistant Professor of Biostatistics at Nişantaşı University. 
-He serves as an Interventional Cardiologist at Hisar Hospital and is currently pursuing a Master's degree in AI Engineering. 
-Dr. Tanboga's research focuses on the intersection of interventional cardiology, biostatistics, and artificial intelligence 
-applications in healthcare. His work aims to advance cardiovascular medicine through innovative statistical methods and 
-AI-driven solutions for improved patient outcomes.
+He serves as an Interventional Cardiologist at Hisar Intercontinental Hospital and is currently pursuing a Master's degree in AI Engineering. 
+
+Dr. Tanboga earned his medical degree from Dicle University Medical School (1998-2004) and completed his cardiology residency 
+at Kosuyolu Heart Hospital (2004-2009). He obtained his PhD in Biostatistics from Ataturk University Medical School (2015-2021).
+
+His research focuses on clinical trial design, clinical prediction modeling, survival analysis, Bayesian statistics, machine learning, 
+AI/LLM, AI Agents, and deep learning applications in cardiovascular medicine. He is proficient in R, STATA, and Python for 
+statistical analysis and data science.
+
+Dr. Tanboga is an active member of the European Society of Cardiology and Turkish Society of Cardiology. He currently serves as President 
+of the Digital Cardiology Association (https://www.dikadernegi.org/) and Vice President of the Society of Digital Health and Bioinformatics. 
+He is also the past president of the Turkish Society of Cardiology Clinical Research Group.
