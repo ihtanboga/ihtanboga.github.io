@@ -44,6 +44,56 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 
+# Interests to show in About widget
+interests:
+  - Interventional Cardiology
+  - Clinical Trial Design
+  - Biostatistics & Survival Analysis
+  - Artificial Intelligence/LLM
+  - AI Agents & Deep Learning
+  - Machine Learning in Healthcare
+  - Clinical Prediction Modeling
+  - Bayesian Statistics
+
+# Education to show in About widget
+education:
+  courses:
+    - course: Master's in AI Engineering (Student)
+      institution: Nişantaşı University
+      year: 2022-2025
+    - course: PhD in Biostatistics
+      institution: Ataturk University Medical School
+      year: 2015-2021
+    - course: Cardiology Residency
+      institution: Kosuyolu Heart Hospital
+      year: 2004-2009
+    - course: Doctor of Medicine (MD)
+      institution: Dicle University Medical School
+      year: 1998-2004
+
+# Work experience
+work:
+  - position: Professor of Cardiology & Assistant Professor of Biostatistics
+    company_name: Nişantaşı University
+    company_url: 'https://www.nisantasi.edu.tr/'
+    date_start: '2018-01-01'
+    date_end: ''
+    summary: |
+      Current academic positions focusing on cardiovascular medicine, biostatistics research, and AI applications in healthcare.
+  - position: Interventional Cardiologist
+    company_name: Hisar Intercontinental Hospital
+    company_url: 'https://www.hisarhospital.com/'
+    date_start: '2016-01-01'
+    date_end: ''
+    summary: |
+      Clinical practice in interventional cardiology with focus on advanced cardiac procedures and patient care.
+  - position: Academic Cardiologist
+    company_name: Ataturk University Hospital
+    date_start: '2011-01-01'
+    date_end: '2016-12-31'
+    summary: |
+      Academic and clinical work in cardiology, research supervision, and medical education.
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 

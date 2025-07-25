@@ -5,19 +5,51 @@ type: landing
 sections:
   - block: resume-biography
     content:
-      # The user's folder name in content/authors/
       username: admin
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['20px', 0, '20px', 0]
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: collection
+        style: 'text-align: justify; font-size: 0.9em;'
+  - block: resume-interests  
     content:
+      username: admin
+      title: Research Interests
+    design:
+      spacing:
+        padding: ['20px', 0, '20px', 0]
+  - block: resume-education
+    content:
+      username: admin
+      title: Education
+    design:
+      spacing:
+        padding: ['20px', 0, '20px', 0]
+  - block: resume-experience
+    content:
+      username: admin
+      title: Experience
+    design:
+      spacing:
+        padding: ['20px', 0, '30px', 0]
+  - block: collection
+    id: recent-posts
+    content:
+      title: Recent Posts
+      subtitle: ''
+      text: ''
+      count: 5
       filters:
         folders:
           - blog
+        exclude_featured: false
+      archive:
+        enable: true
+        text: View all posts
+        link: blog/
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['30px', 0, '30px', 0]
+      view: compact
+      columns: '1'
 ---
