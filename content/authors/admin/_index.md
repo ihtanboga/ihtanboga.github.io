@@ -1,51 +1,48 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Ibrahim Halil Tanboga
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ibrahim Halil
+last_name: Tanboga
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🩺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Cardiology & Assistant Professor of Biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nişantaşı University
+    url: https://www.nisantasi.edu.tr/
+  - name: Hisar Hospital
+    url: https://www.hisarhospital.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include interventional cardiology, biostatistics, and artificial intelligence applications in healthcare.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:haliltanboga@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/ihtanboga
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ibrahim-halil-tanboga-md-phd-151950240/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=c8cyQNAAAAAJ&hl=tr
+    label: Google Scholar
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,6 +51,8 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ibrahim Halil Tanboga, MD, PhD, is a Professor of Cardiology and Assistant Professor of Biostatistics at Nişantaşı University. 
+He serves as an Interventional Cardiologist at Hisar Hospital and is currently pursuing a Master's degree in AI Engineering. 
+Dr. Tanboga's research focuses on the intersection of interventional cardiology, biostatistics, and artificial intelligence 
+applications in healthcare. His work aims to advance cardiovascular medicine through innovative statistical methods and 
+AI-driven solutions for improved patient outcomes.
